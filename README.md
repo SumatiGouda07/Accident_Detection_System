@@ -2,7 +2,7 @@
 
 An accident detection  is a system designed to detect accidents on roads and highways and notify emergency services to reach the accident site quickly. The system uses various sensors and GPS to identify the occurrence of an accident. The system's algorithms analyze the data from these sensors to determine location of the the accident. Once an accident is detected, the system automatically sends a signal to the emergency services,along with the location details, to enable them to reach the accident site promptly.
 
-### Introduction
+### INTRODUCTION 
 In day to day life in we find the Road Accident because of usage of mobile phones while travelling, aggressive driving,improper zebra crossing line, overtaking in wrong manner,starting driving with improper instructions, avoiding safety ugears (helmet, seat belt).Thus the objective of this project is to avoid accident in drunk and drive situation and also to detect the accident spot so that the immediate medication for the victim will be given at earliest time as possible. The vehicle unit consist of sensors to detect the accident location and send the information to the
 authorised person with the help of GPS& GSM.
 
@@ -38,4 +38,7 @@ The LCD panel used in this block interfaced with micro-controller through output
 #### WORKING
 
 This particular module is responsible for the avoidance of the accidents and also to send the accident location details to the registered user and police and also to the nearby hospital. Here the vibration sensor plays an important role in detecting the accidents whenever vehicle starts and moves it produces some vibration and when that vibration continuously monitored and compared with the threshold values of the sensor and whenever there is accident occurs the sudden increase in the vibration of the vehicle is considered as accident and then that location will be sent to the authorities with the help of GPS and GSM. An alert alarm will be given so that nearby people can help the victim from losing his/her life. Here we can also avoid the accident from happening in drunk and drive situation with the help of alcohol sensor whenever alcohol is sensed by the sensor then  n a message will be sent to the family member of driver along with the location details.
+
+### CONCLUSION
+This project helps in detecting the accident location and send alert signal to the nearby police station and also to the hospital so that the rescue unit will arrive as early as possible so that the life of the victim will be saved. Here our project has successfully detected the accident location and also avoided the drunk and drive case by sending the alert signal to the concerned one. 
 
